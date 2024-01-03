@@ -28,6 +28,11 @@ Asset Audio yang digunakan diambil dari beberapa tempat yaitu ZapSplat dan Chosi
 * BGM - [Medieval: Exploration by RandomMind](https://www.chosic.com/download-audio/28501/#google_vignette)
 * Ambience - [Jungle Night Ambience](https://www.zapsplat.com/music/thailand-jungle-night-ambience-insects-close-up-and-in-distance-1/)
 * [Campfire](https://www.zapsplat.com/music/fire-small-wood-with-roar-hiss-and-crackle/)
+
+### Testing Device
+* Project ini diuji menggunakan Redmi Note 8 dengan resolusi layar 1080 x 2340 (Portrait Mode)
+* Saat ini belum dilengkapi dengan penyesuaian resolusi layar otomatis
+
 ## Installation
 
 * Download APK (di bawah)
