@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dbb34d2534bf874b8a69e81b14809ba, type: 3}
+  m_Name: Priest (Common)
+  m_EditorClassIdentifier: 
+  charName: Priest (Common)
+  charSprite: {fileID: 21300090, guid: 15b2d2faaecad4bfb9edc6585d94f509, type: 3}
+  prefab: {fileID: 1000013034572668, guid: d32efdb612c56b14592e0602a769b15a, type: 3}
+  thumbnail: {fileID: 1000013034572668, guid: a66a1ddcb1003084abc787605ff0647d, type: 3}
+  atkPoint: 4
+  healthPoint: 5
+  defPoint: 2
+  characterJob: 3

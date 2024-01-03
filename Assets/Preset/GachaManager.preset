@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GachaManager
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 84c49b9dcfc4ea54ab4f3502029f5b23, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[0].rarityName
+    value: Common
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[0].rateLevel
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[0].weapons.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[0].weapons.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 6e3202b3a151c854cb1ffe86a5e84586, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[0].weapons.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: 04f8388dd9d1ba045b5b701ab113195d, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[0].weapons.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: 0662258c71b9a594b9af7960df2c7cbb, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[0].weapons.Array.data[3]
+    value: 
+    objectReference: {fileID: 11400000, guid: e1d8c965a9c9c0c4c9a402762207cf8e, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[0].weapons.Array.data[4]
+    value: 
+    objectReference: {fileID: 11400000, guid: 25b7eed799d10e542a84e446802dbe91, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[1].rarityName
+    value: Rare
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[1].rateLevel
+    value: 90
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[1].weapons.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[1].weapons.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 3a9b8a544e955e44f9f698816e29be3f, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[1].weapons.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: 73fbb7c59200c1f43ae94ffef3b98fb9, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[1].weapons.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: c7b05ed7d8e7a1e4a95ce069327361bc, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[1].weapons.Array.data[3]
+    value: 
+    objectReference: {fileID: 11400000, guid: 4762b6ce053d26c4ea4974af87f043f0, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[1].weapons.Array.data[4]
+    value: 
+    objectReference: {fileID: 11400000, guid: 85bed1b7b5e6ff64e989a91310c6831e, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[2].rarityName
+    value: Epic
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[2].rateLevel
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[2].weapons.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[2].weapons.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: b5f0526d463303d4c9f85b429bb48df0, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[2].weapons.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: 17f0ff96072ce5b4182278f91c8573c3, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[2].weapons.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: 66bf534bf5ed7d2488958af0bb79f8df, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[2].weapons.Array.data[3]
+    value: 
+    objectReference: {fileID: 11400000, guid: 4a65f978556c87145a84bbe14781c81f, type: 2}
+  - target: {fileID: 0}
+    propertyPath: weaponGachaRate.Array.data[2].weapons.Array.data[4]
+    value: 
+    objectReference: {fileID: 11400000, guid: 866587d16259de7418827514a5e2aff0, type: 2}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[0].rarityName
+    value: Common
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[0].rateLevel
+    value: 70
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[0].characters.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[0].characters.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 5d7ce6832f9ed8449ae6e34b642b1fd4, type: 2}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[0].characters.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: 6e9f2e9b8c8f4764e8574d358575a76e, type: 2}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[1].rarityName
+    value: Rare
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[1].rateLevel
+    value: 95
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[1].characters.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[1].characters.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 1550259c9e94c6f4aaee2f3d564aaca7, type: 2}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[1].characters.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: 7d7addc1c4e7097408cea0d2fdaae5bd, type: 2}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[2].rarityName
+    value: Epic
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[2].rateLevel
+    value: 100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[2].characters.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[2].characters.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 0e028d408e6eeb84db8998cf70b373cd, type: 2}
+  - target: {fileID: 0}
+    propertyPath: characterGachaRate.Array.data[2].characters.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: d64bf93229f57ac4a9d317884b88c35f, type: 2}
+  - target: {fileID: 0}
+    propertyPath: oneTimeRate
+    value: 80
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: resultParent1
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: resultParent2
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: itemResult
+    value: 
+    objectReference: {fileID: 282001994686346097, guid: 2df9b5849152a294fb66672a46bac280, type: 3}
+  m_ExcludedProperties: []

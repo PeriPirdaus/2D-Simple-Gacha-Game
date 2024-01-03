@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9a789aaf6cd17634ba922947b6647d20
+  m_SerializeEntries:
+  - m_GUID: c2edb0b762b11a241b0282ac879693e8
+    m_Address: Assets/Prefab/Environment.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c9f7dcd6b10afa459e7032a6ff4e00f
+    m_Address: Assets/Audio/Campfire.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7e13489217a2af4cb9da1f6fa64b0a4
+    m_Address: Assets/Audio/Jungle Night Ambience.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc0dcda383066f74bbc2be55a86026a3
+    m_Address: Assets/Audio/Exploration Medieval BGM.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7619a2281fec97d4f94965b50a9a0903, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 625b4e4141a79d949a3c486314357029, type: 2}
+    - {fileID: 11400000, guid: cbd971e46f5a8c145b7fb23718099d90, type: 2}
